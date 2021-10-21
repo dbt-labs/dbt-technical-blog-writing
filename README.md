@@ -26,4 +26,8 @@ Do you have an idea for a post? A question about dbt that you think a post might
 
 ## Issues
 
-Issues represents the backlog of posts that are ready to be written. Posts that are labelled "Looking for author" are open. Comment with your interest in writing the post in order to claim a topic to write.
+Issues represents the backlog of posts that are ready to be written. Posts that are labelled "Looking for author" are open. Comment with your interest in writing the post in order to claim a topic to write. This will begin the process of working with the DevHub team to get a post ready for launch. The process will look as follows:
+- A conversation (on github or via call) about what the goals are for the post and why you are interested in writing it
+- You put together a draft (in Google Docs) then comment on the post with a link to the draft when ready
+- The DevHub team member working with you will read + provide feedback to the post. When all of the feedback is addressed, the post will be considered finalized.
+- Once finalized, a post will be added to the DevHub content schedule and published no later than two weeks after finalization
