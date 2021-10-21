@@ -1,5 +1,7 @@
 # devhub-writing
 
+Get started now - comment and claim a post that is [looking for an author](https://github.com/dbt-labs/devhub-writing/issues?q=is%3Aissue+is%3Aopen+label%3A%22Looking+for+author%22)
+
 ## How to use this Repo
 This repo will serve as an internal and external location for coordinating writing that will live on the dbt Developer Blog - DevHub. We welcome contributions from internal and external contributors - if you see a topic that interests you, feel free to hop into the issue assign yourself and get writing. NOTE - topics marked as internal will be reserved to be written by dbt Labs employees.
 
@@ -19,6 +21,9 @@ This repo is actively managing writing for the following properties:
 
 The discussions section of this repo is where we will propose potential ideas, generate topics and work to create solid ideas for posts on DevHub. Once a post has solidified to the point where we are reasonably sure we want it to be written, it will be opened as an issues.
 
+**How to get involved**
+Do you have an idea for a post? A question about dbt that you think a post might warrant? An interesting theory about any of the topics covered on DevHub? Start a discussion (most likely on the Analytics Craft board) and get involved in existing disucssions.
+
 ## Issues
 
-Issues represents the backlog of posts that are ready to be written. 
+Issues represents the backlog of posts that are ready to be written. Posts that are labelled "Looking for author" are open. Comment with your interest in writing the post in order to claim a topic to write.
