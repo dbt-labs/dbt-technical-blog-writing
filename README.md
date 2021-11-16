@@ -1,4 +1,4 @@
-# devhub-writing
+# dbt-technical-blog-writing
 
 Get started now - comment and claim a post that is [looking for an author](https://github.com/dbt-labs/devhub-writing/issues?q=is%3Aissue+is%3Aopen+label%3A%22Looking+for+author%22)
 
