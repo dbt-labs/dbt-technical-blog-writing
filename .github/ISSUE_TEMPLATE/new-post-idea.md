@@ -12,7 +12,10 @@ assignees: ''
 **Prior art:**
 *Any other posts that exist on this topic (here or elsewhere).*
 
-**Link to notes / draft:**
+**Link to notes / outline / draft:**
 *Google docs preferred, please set sharing to `anyone with the link can view`.*
+
+**Estimated first draft date:**
+*Leave blank if you already shared a draft above.*
 
 **Any open questions / requests for help from the group?**
